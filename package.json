@@ -1,0 +1,31 @@
+{
+  "name": "discordie-browser",
+  "version": "0.0.1",
+  "description": "A Node.js module for interfacing with the Discord API.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qeled/discordie-browser.git"
+  },
+  "keywords": [
+    "discordapp",
+    "discord",
+    "api",
+    "client",
+    "node",
+    "node.js"
+  ],
+  "author": "qeled",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "browser-process-hrtime": "^0.1.2",
+    "html-webpack-plugin": "^2.22.0",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.1"
+  }
+}
